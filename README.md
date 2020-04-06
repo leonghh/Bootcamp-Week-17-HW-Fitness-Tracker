@@ -1,8 +1,13 @@
 # Week-17-HW
 
 ## Links
+Github: https://github.com/leonghh/Week-17-HW
+Heroku: https://eugenebootcamp-workouttracker.herokuapp.com/
 
 ## Screenshot
+
+![Alt text](public/assets/img/workoutrackerindex.PNG)
+![Alt text](public/assets/img/workouttrackerexecise.PNG)
 
 ## User Story
 
